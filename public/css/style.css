@@ -1,0 +1,43 @@
+body {
+    background-color: #f0efeb;
+    margin: 0;
+    padding: 0;
+}
+
+.img {
+    height: 100px;
+    width: 100%;
+}
+
+.product-target {
+    background-color: aqua;
+    height: 300px;
+    width: 200px;
+}
+
+/* .text {
+    font-size: 3rem;
+    position: absolute;
+    top: 13rem;
+    text-align: center;
+} */
+
+.first-icon {
+    position: absolute;
+    top: .8rem;
+    left: 1.3rem;
+}
+
+.second-icon {
+    position: absolute;
+    bottom: .8rem;
+    right: 1.3rem;
+}
+
+.season-display {
+    align-items: center;
+    display: flex;
+    font-size: 1.5rem;
+    height: 100vh;
+    justify-content: center;
+}
